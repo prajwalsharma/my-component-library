@@ -1,5 +1,5 @@
 {
-  "name": "my-component-library",
+  "name": "@prajwalsharma/my-component-library",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -72,6 +72,6 @@
   "types": "build/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prajwalsharma/my-component-library.git"
+    "url": "https://github.com/prajwalsharma/my-component-library.git"
   }
 }
