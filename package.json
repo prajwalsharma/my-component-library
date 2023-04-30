@@ -1,6 +1,6 @@
 {
   "name": "my-component-library",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -69,5 +69,9 @@
   },
   "main": "build/index.cjs.js",
   "module": "build/index.esm.js",
-  "types": "build/index.d.ts"
+  "types": "build/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalsharma/my-component-library.git"
+  }
 }
