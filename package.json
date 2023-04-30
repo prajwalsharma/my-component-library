@@ -75,5 +75,8 @@
     "url": "https://github.com/prajwalsharma/my-component-library.git"
   },
   "license": "MIT",
-  "description": "A React Component Library"
+  "description": "A React Component Library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
